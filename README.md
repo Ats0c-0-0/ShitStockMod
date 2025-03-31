@@ -1,2 +1,2 @@
-# SSM-ShitStockMod-
-Repositório com alguns patchs e mods para ROM OEM's da Scamsung
+# SSM-ShitStockMod
+<img src="/imgandgifs/logo.gif">
