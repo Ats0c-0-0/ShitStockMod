@@ -1,6 +1,6 @@
 <img src="/imgandgifs/logo.gif">
 
-### Introdução
+# Introdução
 Aqui você encontrará alguns patchs e mods para OneUI 4.1 baseado por mim e por outros Devs como:
 
 - Adicionar edição de "IA" no editor de fotos como Removedor de reflexos/sombras
@@ -14,12 +14,12 @@ Aqui você encontrará alguns patchs e mods para OneUI 4.1 baseado por mim e por
 - Desativação da verificação de assinatura APK
 - Patch para desabilitar o Knox no CSC e outros pequenos patches
 
-# O que preciso pra fazer isso?
+## O que preciso pra fazer isso?
 - CRB[^1]
 - BatchApkTool
 - e muita paciência
 
-# Q&R:
+## Q&R:
 - __Posso fazer isso tudo sem PC?__
   - Pode tentar usar o modulo [UKA](https://github.com/blackeangel/UKA) disponivel no GitHub e as versões mods dele disponiveis por ai. Lembrando que esse modulo acelerar a morte do seu eMMC/UFS!!
 - __Quais os requisitos que meu PC precisa ter para usar CRB?__
@@ -29,10 +29,10 @@ Aqui você encontrará alguns patchs e mods para OneUI 4.1 baseado por mim e por
 - __Qual o melhor site para baixar stocks?__
   - Atualmente uso a [samfw.com](samfw.com) para baixar as stock de maneira rápida e segura.
 
-# Observação:
+### Observação:
 Muito provavelmente você terá problemas para inserir esses patches dentro da sua stock pelo fato de nem sempre funciona pra todos os dispositivos, você pode adaptar os mesmos para sua necessidade como fiz com alguns códigos.
 
-# Créditos
+### Créditos
 A todos os colaboradores do post no fórum do XDA [Samsung & Android Mods Collection](https://xdaforums.com/t/mods-samsung-not-android-mods-collection-exynos.3772017/)\
 Aos envolvidos da [NcX Stock](https://github.com/ShaDisNX255/NcX_Stock/tree/Android12?tab=readme-ov-file)\
 Aos envolvidos da [UN1CA](https://github.com/salvogiangri/UN1CA)
