@@ -1,6 +1,7 @@
 <img src="/imgandgifs/logo.gif">
 
-## Aqui você encontrará alguns patchs e mods para OneUI 4.1 baseado por mim e por outros Devs como:
+### Introdução
+Aqui você encontrará alguns patchs e mods para OneUI 4.1 baseado por mim e por outros Devs como:
 
 - Adicionar edição de "IA" no editor de fotos como Removedor de reflexos/sombras
 - Adicionar uma área especial para sua ShitStockMod ou afins
