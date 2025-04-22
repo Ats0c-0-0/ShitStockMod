@@ -31,7 +31,7 @@ Aqui você encontrará alguns patchs e mods para OneUI 4.1 baseado por mim e por
   - Atualmente uso a [samfw.com](samfw.com) para baixar as stock de maneira rápida e segura.
 
 ## Tutorial de Spray
-Aqui está como deve configurar o BatchApkTool e a [lista de patches](Patches/TutorialDeSpray) que já adicionei até agora (22/04/2025)
+Aqui está como deve configurar o BatchApkTool e a [lista de patches](Patches/TutorialDeSpray.md) que já adicionei até agora (22/04/2025)
 
 ## Observação:
 Muito provavelmente você terá problemas para inserir esses patches dentro da sua stock pelo fato de nem sempre funciona pra todos os dispositivos, você pode adaptar os mesmos para sua necessidade como fiz com alguns códigos.
