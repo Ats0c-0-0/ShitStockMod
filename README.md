@@ -16,7 +16,7 @@ Aqui você encontrará alguns patchs e mods para OneUI 4.1 baseado por mim e por
 
 ## O que preciso pra fazer isso?
 - CRB[^1]
-- BatchApkTool
+- [BatchApkTool]()
 - e muita paciência
 
 ## Q&R:
