@@ -16,10 +16,11 @@ Aqui você encontrará alguns patchs e mods para OneUI 4.1 baseado por mim e por
 
 ## O que preciso pra fazer isso?
 - CRB[^1]
-- [BatchApkTool]()
-- e muita paciência
+- [BatchApkTool](https://bursoft-portable.blogspot.com/p/blog-page_23.html?m=1)
+- [Notepad++](https://notepad-plus-plus.org/downloads/) ou [VS Code](https://visualstudio.microsoft.com/pt-br/free-developer-offers/)
+- Inteligencia e saber usar os recursos
 
-## Q&R:
+### Q&R:
 - __Posso fazer isso tudo sem PC?__
   - Pode tentar usar o modulo [UKA](https://github.com/blackeangel/UKA) disponivel no GitHub e as versões mods dele disponiveis por ai. Lembrando que esse modulo acelerar a morte do seu eMMC/UFS!!
 - __Quais os requisitos que meu PC precisa ter para usar CRB?__
@@ -29,10 +30,13 @@ Aqui você encontrará alguns patchs e mods para OneUI 4.1 baseado por mim e por
 - __Qual o melhor site para baixar stocks?__
   - Atualmente uso a [samfw.com](samfw.com) para baixar as stock de maneira rápida e segura.
 
-### Observação:
+## Tutorial de Spray
+Aqui está como deve configurar o BatchApkTool e a [lista de patches](Patches/TutorialDeSpray) que já adicionei até agora (22/04/2025)
+
+## Observação:
 Muito provavelmente você terá problemas para inserir esses patches dentro da sua stock pelo fato de nem sempre funciona pra todos os dispositivos, você pode adaptar os mesmos para sua necessidade como fiz com alguns códigos.
 
-### Créditos
+# Créditos
 A todos os colaboradores do post no fórum do XDA [Samsung & Android Mods Collection](https://xdaforums.com/t/mods-samsung-not-android-mods-collection-exynos.3772017/)\
 Aos envolvidos da [NcX Stock](https://github.com/ShaDisNX255/NcX_Stock/tree/Android12?tab=readme-ov-file)\
 Aos envolvidos da [UN1CA](https://github.com/salvogiangri/UN1CA)
