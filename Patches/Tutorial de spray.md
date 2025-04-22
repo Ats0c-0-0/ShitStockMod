@@ -10,4 +10,4 @@
 - [Desativação da verificação de assinatura do pacote](https://github.com/Ats0c-0-0/ShitStockMod/blob/main/Patches/DisableSignaturePackage/nacas.md)
 - [Desativação de verificação de assinatura de APK](https://github.com/Ats0c-0-0/ShitStockMod/blob/main/Patches/DisableSignatureAPK/nacas.md)
 - [Ativando o Outdoor Mode](https://github.com/Ats0c-0-0/ShitStockMod/blob/main/Patches/EnablingOutdoorMode/nacas.md)
-- [Corrigindo Pasta Segura](https://github.com/Ats0c-0-0/ShitStockMod/blob/main/Patches/FixSecureFolder/nacas.md)
+- [Corrigindo Pasta Segura](Patches/FixSecureFolder/nacas.md)
