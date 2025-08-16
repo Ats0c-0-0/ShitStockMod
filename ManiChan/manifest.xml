@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>ShitStockMod</RomName>
-  <VersionName>v3.01_r1</VersionName>
-  <BuildNumber type="integer">v3.01_r1</BuildNumber>
-  <DownloadURL>https://api.onedrive.com/v1.0/shares/s!AjUnizekeauKlk5Z-M-58ZYBcy-4/root/content</DownloadURL>
+  <VersionName>v3</VersionName>
+  <BuildNumber type="integer">v3.01A_r1</BuildNumber>
+  <DownloadURL>https://my.microsoftpersonalcontent.com/personal/6cc8d5aeb0121583/_layouts/15/download.aspx?UniqueId=f471153b-1745-4376-8cc4-9df4f6755ddb&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiI3Mzk4OTlmYi1mYzFkLTRkMWItYjA5Ni1jZmIxODdkZmQ2MjIiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3NTUzNjg1MTUifQ.OtilS9vWp5t0p6A8KAFA7rhvdhw2Ng7QBIfD76PwYL9MiAJ8Wm9wXvdxvZAYMTPjZrlBxe-ALxoXYGRYz3vyw48y0oiibkhzq9jjoKc1NQ8T0_pURN_IOneEDIZRN1uWDtTJa9uCBvjh-kbedjF8NsieF7IYBlnS7Ef3duB8NkIOpGDviH1olFHbwuCX9YoRUOHMnFWnb6C8SL8bqHk8Kl_r0GkZd212McBu7WZgy4-97bGP-iY_uZTk8kFmoLt8dw2dlf6b1M2kERaKUeueFTFhDaDREW7uRHw5J_WrgEDJa2QjqPqOmx5IeoFa6ac3K9VuFUe4pTiBKC9z-IX4UbzczboX6b1YYMmAoQDhMNfLNGqc30ZWDoxZ2fzb6PItyExZqOUTgFRBQsMVE017S02HiogP9oNusTvVmM7z4Ag.9jjaYcM3gUMd1d_8BM8Lp8bshssUqse-VO0VVErZDs4&ApiVersion=2.0&AVOverride=1</DownloadURL>
   <AndroidVer>13</AndroidVer>
   <OneUIVer>5.1</OneUIVer>
   <CheckMD5>8c62d841e47e5d72744ca78f849e7d71</CheckMD5>
   <FileSize type="long">990000000</FileSize>
   <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
   <ChangelogHeader>https://i.ibb.co/92RxppQ/changelogheader1100.png</ChangelogHeader>
-  <ChangelogURL>https://raw.githubusercontent.com/ShaDisNX255/NcX_OnUpdate/main/a52q/changelog.txt</ChangelogURL>
+  <ChangelogURL>https://raw.githubusercontent.com/Ats0c-0-0/ShitStockMod/cdc16546d8a6df7c054ddc9839d6b4d3f379f347/ManiChan/changelog.txt</ChangelogURL>
 </OnOTAInfo>
